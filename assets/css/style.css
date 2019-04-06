@@ -1,0 +1,92 @@
+body {
+  background-color: #3b4892 !important;
+}
+div.main {
+  color: #fffeee;
+  margin: 3em;
+  /* background-color: #3b4892; */
+}
+div.heading {
+  width: 50%;
+  margin-bottom: 3em;
+}
+div.banner {
+  background-image: url(../images/ayo-ogunseinde.jpg);
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 3em;
+
+  width: 100%;
+  height: 70vh;
+}
+div.content {
+  margin-bottom: 3em;
+  height: auto;
+}
+div.content p.main_paragraph {
+  margin-bottom: 3em;
+}
+div.comment_section {
+  width: 100vw;
+}
+section.paragraph .split_paragraph {
+  width: auto;
+  height: 25em;
+}
+section.paragraph {
+  width: 80%;
+  margin: 0 auto;
+}
+
+div.split section.content_image {
+  background-image: url(../images/ayo-ogunseinde.jpg);
+  background-position: center;
+  background-size: cover;
+
+  width: 50%;
+  height: 30em;
+  padding: 0 auto;
+}
+div.split {
+  height: 30em;
+  margin-bottom: 3em;
+  width: 100%;
+}
+div.split section {
+  padding: 10%;
+  float: left;
+  width: 50%;
+}
+div.split section {
+  height: 25em;
+}
+div.engagement {
+  margin-bottom: 3em;
+  width: 100%;
+  height: auto;
+}
+div.pagination {
+  margin-bottom: 3em;
+  width: 100%;
+  height: auto;
+}
+
+div.comment_section .comment .image {
+  background-image: url(../images/ayo-ogunseinde.jpg);
+  background-position: center;
+  background-size: cover;
+  border-radius: 100%;
+
+  width: 5em;
+  height: 5em;
+}
+div.comment_section .comment .image {
+  float: left;
+}
+div.comment {
+  width: 50%;
+}
+div.comment .comment_inner {
+  /* width: 75%;
+  float: left; */
+}
